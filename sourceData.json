@@ -1,0 +1,74 @@
+[
+  {
+    "COUNTRY": "Mexico",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": 32.00,
+    "VARIABLE_COST": 1.24
+  },
+  {
+    "COUNTRY": "Brazil",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": 20.00,
+    "VARIABLE_COST": 1.42
+  },
+  {
+    "COUNTRY": "Russia",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": 45.00,
+    "VARIABLE_COST": 1.90
+  },
+  {
+    "COUNTRY": "Mexico",
+    "COMMODITY": "grapefruit",
+    "FIXED_OVERHEAD": 32.00,
+    "VARIABLE_COST": 2.24
+  },
+  {
+    "COUNTRY": "Brazil",
+    "COMMODITY": "grapefruit",
+    "FIXED_OVERHEAD": 20.00,
+    "VARIABLE_COST": 2.42
+  },
+  {
+    "COUNTRY": "Russia",
+    "COMMODITY": "grapefruit",
+    "FIXED_OVERHEAD": 45.00,
+    "VARIABLE_COST": 2.90
+  },
+  {
+    "COUNTRY": "Mexico",
+    "COMMODITY": "lime",
+    "FIXED_OVERHEAD": 32.00,
+    "VARIABLE_COST": 3.24
+  },
+  {
+    "COUNTRY": "Brazil",
+    "COMMODITY": "lime",
+    "FIXED_OVERHEAD": 20.00,
+    "VARIABLE_COST": 3.42
+  },
+  {
+    "COUNTRY": "Russia",
+    "COMMODITY": "lime",
+    "FIXED_OVERHEAD": 45.00,
+    "VARIABLE_COST": 3.90
+  },
+  {
+    "COUNTRY": "Mexico",
+    "COMMODITY": "coconut",
+    "FIXED_OVERHEAD": 32.00,
+    "VARIABLE_COST": 4.24
+  },
+  {
+    "COUNTRY": "Brazil",
+    "COMMODITY": "coconut",
+    "FIXED_OVERHEAD": 20.00,
+    "VARIABLE_COST": 4.42
+  },
+  {
+    "COUNTRY": "Russia",
+    "COMMODITY": "coconut",
+    "FIXED_OVERHEAD": 45.00,
+    "VARIABLE_COST": 4.90
+  }
+]
